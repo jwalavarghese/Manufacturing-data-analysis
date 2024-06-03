@@ -1,4 +1,4 @@
-**Project Overview:**/
+**Project Overview:**<br/>
 This Project presents analysis of the Manufacturing data summarizing key performance indicators and providing insights and recommendations for future improvement. This project empowers strategic decision-making to remain competitive in the market landscape./
 #Objectives:/
 •	To analyse the overall production efficiency.
